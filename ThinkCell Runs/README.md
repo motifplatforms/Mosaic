@@ -11,6 +11,6 @@ Updated October 20, 2026 · 32 of 36 planned runs scored.
 
 ## Full results
 
-Decks, slide-by-slide images, scores by dimension and the judge's feedback are available to invited readers at **[mosaic.motifplatforms.com](https://mosaic.motifplatforms.com)** (sign in with your email; access is by invitation).
+Decks, slide-by-slide images, scores by dimension, the judge's feedback, and the Inputs, Outputs, Method and Sources pages are available to invited readers at **[mosaic.motifplatforms.com](https://mosaic.motifplatforms.com)** (sign in with your email; access is by invitation).
 
 To request access, email Motif Platforms.

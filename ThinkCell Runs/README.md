@@ -2,7 +2,7 @@
 
 Motif Platforms' PPTX-Bench asks two Claude models to build and edit consulting decks from public filings, then scores every deck blind against a 100-point rubric, with a focus on whether the models use think-cell.
 
-Updated October 20, 2026 · 32 of 36 planned runs scored.
+Updated October 23, 2026 · 32 of 36 planned runs scored.
 
 ## Headline
 
@@ -13,4 +13,4 @@ Updated October 20, 2026 · 32 of 36 planned runs scored.
 
 Decks, slide-by-slide images, scores by dimension, the judge's feedback, and the Inputs, Outputs, Method and Sources pages are available to invited readers at **[mosaic.motifplatforms.com](https://mosaic.motifplatforms.com)** (sign in with your email; access is by invitation).
 
-To request access, email Motif Platforms.
+To request access, email **dsaran@motifplatforms.com**.
